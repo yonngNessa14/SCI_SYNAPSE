@@ -24,6 +24,7 @@ export default class HomeScreen extends Component {
         <View style={styles.topPanel}>
                 <View style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
                     <Image source={nasslogo} />
+                    <Text>hello git</Text>
                 </View>
                 <View style={{flex:1}}>
                     <Text style={{fontSize:30,fontWeight:'bold',color:'#fff',textAlign:'center',paddingLeft:2,paddingRight:2}}>Nigerian Association of Science Students</Text>
